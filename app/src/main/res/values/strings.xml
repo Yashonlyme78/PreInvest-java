@@ -1,0 +1,108 @@
+<resources>
+    <string name="app_name">PreInvest</string>
+    //Headings
+    <string name="heading_one">PreInvest </string>
+    <string name="heading_two">Learn Trading Without Risking Real Money</string>
+    <!--    <string name="heading_three">Cashless Payment</string>-->
+    <!--    <string name="heading_fourth">Pay Anywhere</string>-->
+
+    //Description
+    <string name="desc_one">“Don’t let the stock market intimidate you - our app will guide you every step of the way.                       Unlock the secrets of successful investing with our app - start your journey today!”</string>
+    <string name="desc_two">PreInvest is a paper trading app which helps you learn about the stock market.</string>
+    <!--    <string name="desc_three">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</string>-->
+    <!--    <string name="desc_fourth">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</string>-->
+    <string name="skip">Skip</string>
+    <string name="volkswagon">A short squeeze is the name given to a surge in the price of a certain security caused by unusual activity from short sellers, who need to buy the asset to limit their losses.\n\n If the price of the asset unexpectedly rises, short sellers are forced to buy the stock to close their positions. This spike in trading volumes typically leads to further upward pressure in the price of the security. This results in a vicious cycle that may only come to an end when short sellers have fully covered their exposure to the asset.\n \nThe history of the 2008 Volkswagen short squeeze can be traced back to 2006 when Porsche SE decided to start acquiring a sizable stake in the German automaker. This resulted in the price progressively climbing to higher levels in the following months.
+In 2008, short sellers started to bet against the stock as they realised that Porsche would start limiting its purchases after they amassed a 30% stake in VW.\n\n
+However, Porsche did not stop buying shares of VW as market participants expected. In March that year, the company revealed that it had actually upped its stake to over 40%, while it also held around 31.5% of the company’s shares in cash-settled options.\n\n
+Combined with the 20% stake the German government owned back then, it meant that less than 10% of the company’s float was actually available and accessible to traders and investors in the open market.
+</string>
+    <string name="meta">The drop in market value over a single day of trading was on Feb. 3, 2022, when Meta Platforms Inc. (META) operating as Facebook, lost $232 billion in market value. This surpasses the previous largest single-day loss held by Apple Inc. (AAPL) only 17 months earlier.\n\n
+        Meta shares had risen for five straight days, until a lackluster earnings report sent investors reeling.In the first nine month of 2022, the company’s Reality Labs division, i.e. all things metaverse, lost $9.4 billion, adding to a hefty $10-billion tab in 2021. Making things worse for shareholders, Meta warned that it expects Reality Labs\' operating losses to “grow significantly” next year, as the company\'s total expenses are expected to swell to $100 billion. The company\'s earnings fell way short of analyst expectations and were coupled with the astounding news that Facebook had posted a decline in daily users.\n\n This was the first time the company posted such news, and the market reacted fiercely.
+        There were other aspects of the report and subsequent call that prompted an exodus from the stock.\n\n CEO Mark Zuckerberg and his team mentioned the weight that Apple\'s iOS update had on the social media company\'s advertising revenue and would result in a $10 billion loss to the company.The price of the stock plummeted, dropping 26% during the day, erasing hundreds of billions of dollars in the process.
+    </string>
+    <string name="adani">Hindenburg Research, an activist short-seller, released a report claiming stock manipulation charges on the Adani Group. Hindenburg allegations include shell companies owned by Adani’s close relatives were trying to manipulate stock prices from tax havens like Mauritius.\n\nThough the timing of the report is questionable as it was published just a day before the FPO on January 25, its claims have raised serious questions on corporate governance and has triggered all stakeholders from investors including India’s largest bank, the State Bank of India, and the country’s largest insurance company, LIC, to issue clarifications on their limited exposure to the Adani Group.\n\nMultiple media reports citing sources state the Indian stock market regulator is examining the claims made in the Hindenburg report. The Adani Group has rubbished the report and issued clarifications but the market sentiment has largely been negative, slashing the combined market value of Adani’s group companies to nearly half.\n\nThe unprecedented slump in Adani stocks pushed Gautam Adani to call off his FPO even after it was fully subscribed. Adani said the decision was made by the board to protect the interest of the investors and the money raised would be returned.\n\n
+What was set to be a historic FPO for the Indian stock market had to be withdrawn. This further dented investor confidence and Adani stocks continued to bleed.
+    </string>
+    <string name="paytm">One97 Communications Ltd, the parent company of digital payments app PayTM, lost 27% of its share price on the day of its listing. Domestic retail investors had high hopes on the Rs 18,300 crore IPO. Nevertheless, investors were left surprised when the shares were listed at a discount on the stock exchanges. In this piece, we explore the possible causes that led to the failure, and whether the stock has any future investment prospects.\n\n
+
+Offloading By Promoters and Hedge Funds\n
+The company planned to raise a total of Rs 18,300 crore through its IPO, Rs 8300 through a fresh issue (which goes to the company), and Rs 10,000 through an Offer For Sale (which goes to the promoters). The signs of an IPO debacle were pretty much evident at the beginning of the month. The highest number of shares were offloaded by Jack Ma’s Antfin (Netherlands) Holding B.V, Alibaba Group, and SoftBank Group.\n Other offloaders included some promoters and hedge funds. Hedge funds and Investment funds have an appetite for risk. They generally avoid playing on smooth grounds. Seemingly, the investment, venture capital, and hedge funds tried to take some money home by offloading stakes in the company. This wouldn’t have been the case if the companies saw a greater opportunity in the IPO.\n\n
+
+Retail Investor Hype!\n
+On November 3, 2021, the US Fed announced its plans to begin tapering quantitative easing by reducing interest rates and selling government bonds. While the announcement did not trigger a sudden reaction, investors knew it was time to slowly get their hands off high-risk assets, but obviously not the retail investors.\n Retail investors are individuals like me and you. The IPO was subscribed only 18% on Day 1. The retail segment was subscribed 78%, while the Qualified Institutional Buyers (QIB) and Non-Institutional Investor (NII) segments were subscribed only 2% and 5% respectively. By Day 3, India’s ‘largest’ IPO was subscribed 1.89 times, a small number for the hype around the company.\n In the end, the Foreign Institutional Investors and Retails investors managed to see the IPO through an oversubscription. </string>
+
+    <string name="gamestop">At the beginning of the COVID-19 pandemic, no serious investor would have predicted that a struggling chain of brick-and-mortar stores reliant on mall traffic would become the most talked-about stock of 2021. Certainly not the managers of Melvin Capital, one of several hedge funds that began placing multi-billion dollar short trades against GameStop (GME) in the lead-up to the 2020 holiday season.
+
+However, short traders overplayed their hands. Retail investors on Reddit and other online communities began to notice the unusually high short interest against GameStop and suspected that some of the hedge funds had engaged in naked shorting—the predatory practice of selling nonexistent shares in order to bet against a company. Knowing the hedge funds would soon have to cover their shorts, online traders began heavily investing in GameStop stock and options.\n\n
+
+The result was a spectacular short squeeze that reverberated throughout the market. In January 2021, GameStop shares soared from about $17 to a high of over $500, before several brokerages limited buys of GameStop and other meme stocks. The hedge funds were forced to close their short positions, with billions of losses. A few months later, Melvin Capital shut down.
+
+This was not the end of the GameStop saga, as brokerage firms were accused of manipulating the market in favor of their institutional clients. Several federal and state regulators initiated investigations of short sellers, and multiple class-action lawsuits were filed against the brokerages that had halted trading.\n\n
+
+Still, while an initial short squeeze may have initiated the rapid rise in price in the stock, it is less certain that closing short positions are what sustained the high prices for months following the initial event. According to an SEC on the topic, "Whether driven by a desire to squeeze short sellers and thus to profit from the resultant rise in price, or by belief in the fundamentals of GameStop, it was the positive sentiment, not the buying-to-cover, that sustained the weeks-long price appreciation of GameStop stock."
+</string>
+    <string name="info1">   1. What is the stock market?
+A stock market is a place where buyers and sellers
+interact to trade in shares of a publicly listed
+companies. When you buy a share, you become a
+part owner of the company.\n\n2. What is a Share?
+A share indicates a unit of ownership in a
+particular company. As a shareholder of a
+company, you hold a percentage of ownership of
+the company and are liable for the company’s
+profits and losses. You also get the additional
+benefits such as dividends, bonus
+shares and rights issue.</string>
+    <string name="info2">3. What is a Stock?
+A stock is the collection of shares of a single
+company or collection of shares of multiple
+companies.\n\n4. BSE
+The Bombay Stock Exchange (BSE) is the oldest
+stock exchange in India and Asia. It was
+established in 1875 under a banyan tree by five
+stockbrokers. Currently 5,400 shares are listed
+on BSE.\n\n 5. NSE
+The National Stock Exchange (NSE) was
+established after the Harshad Mehta Scam in
+1992. It is a leading stock exchange in India and
+fourth largest in the world.
+</string>
+    <string name="info3">6. Nifty or Nifty 50
+Nifty 50 is a basket or collection of the 50 largest
+most active stocks listed on NSE. It helps investors
+gauge the overall market sentiments.\n\n 7. Sensex or Sensex 30
+Sensex is BSE’s flagship index. It is a basket of 30
+biggest, most actively traded stocks listed on the
+BSE. The term Sensex is a combination of
+sensitivity index.\n\n 8. Demat Account
+Demat or Demat Account is an electronic account
+which holds financial assets like shares, mutual
+funds, ETFs, bonds, sovereign gold bonds, ULIPs
+etc. in digital form.
+</string>
+    <string name="info4">9. Portfolio
+A collection of investments owned by the investor
+is called portfolio. An investor may have just one
+stock or multiple securities in a portfolio. It
+contains a diverse range of financial instruments
+like shares, bonds, futures, options, etc.\n\n 10. Derivative
+A derivative is a financial instrument that derives
+its value from the underlying asset or group of
+assets. Futures and options are examples of
+derivatives. Usually, underlying assets are market
+indexes, shares, commodities, currencies..
+
+
+    </string>
+    <string name="login">Login</string>
+    <string name="email">email</string>
+    <string name="password" />
+    <string name="Login">Login</string>
+    <string name="Register" />
+    <string name="register" />
+    <string name="click_to_login">Click To Login</string>
+    <string name="click_to_Register" />
+    <string name="logout" />
+    <string name="title_activity_stock_info">StockInfo</string>
+</resources>

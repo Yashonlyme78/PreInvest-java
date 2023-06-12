@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#EEEEF3"
+    android:backgroundTint="#EDEDF3"
+    tools:context=".CaseStudy5">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="368dp"
+        android:layout_height="38dp"
+        android:layout_marginTop="8dp"
+        android:background="#EEEEF3"
+        android:backgroundTint="#EEEEF3"
+        android:gravity="center"
+        android:text="Rise of GameStop"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:textAlignment="gravity"
+        android:textColor="@color/purple_700"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.095"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ScrollView
+        android:id="@+id/scrollView2"
+        android:layout_width="387dp"
+        android:layout_height="473dp"
+        android:layout_marginStart="6sp"
+        android:layout_marginEnd="16sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.187"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.801">
+
+        <TextView
+            android:id="@+id/scrolltext"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/casestudystring"
+            android:orientation="vertical"
+            android:paddingLeft="5sp"
+            android:paddingTop="2sp"
+            android:paddingRight="5sp"
+            android:text="@string/gamestop"
+            android:textColor="#050000"
+            android:textStyle="bold" />
+    </ScrollView>
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="509dp"
+        android:layout_height="257dp"
+        android:layout_marginEnd="1sp"
+        android:adjustViewBounds="true"
+        android:cropToPadding="false"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0"
+        app:srcCompat="@drawable/gamestop_stocks" />
+
+    <Button
+        android:id="@+id/next5"
+        android:layout_width="82dp"
+        android:layout_height="41dp"
+        android:layout_marginStart="301dp"
+        android:layout_marginEnd="22dp"
+        android:layout_marginBottom="4dp"
+        android:text="Go to Main Screen"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/scrollView2" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

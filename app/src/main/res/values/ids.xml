@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="Register" type="id" />
+    <item name="btnLogin" type="id" />
+    <item name="password" type="id" />
+    <item name="registerNow" type="id" />
+    <item name="registerNoww" type="id" />
+    <item name="email" type="id" />
+    <item name="btnRegister" type="id" />
+    <item name="LoginNow" type="id" />
+    <item name="Name" type="id" />
+</resources>
